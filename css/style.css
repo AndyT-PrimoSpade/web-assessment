@@ -333,7 +333,7 @@ h5 {
         display: flex;
         width: 100%;
         justify-content: space-around;
-        align-self: center;
+        align-items: center;
     }
     .section1 {
         flex-direction: column;
